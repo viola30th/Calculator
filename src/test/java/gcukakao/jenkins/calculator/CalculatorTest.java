@@ -26,3 +26,4 @@ public class CalculatorTest {
         assertEquals(6, calculator.div(12, 2));
       }
 }
+
